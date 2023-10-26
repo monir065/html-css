@@ -135,7 +135,7 @@ nav a:hover{
     background-color: rgba(20, 3, 10, 0.05);
     box-shadow: 1px 0px 20px 0px;
 
-    background-image: url(/images/back.png);
+    background-image: URL(../images/back.png);
     background-repeat: no-repeat;
     background-size: cover}
 
